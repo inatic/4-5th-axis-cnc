@@ -29,5 +29,5 @@ I'm still at the initial phase.
 
 ### References:
 
-[Bearing specs](https://www.hiwin.hu/en/Produktfinder_Detail_2/Bearings/Crossed_roller_bearings/CRBE/20591)
-[Timing belt specs](https://www.electric-skateboard.builders/t/why-dont-people-use-gt3-pulleys-and-belts/71058)
+* [Bearing specs](https://www.hiwin.hu/en/Produktfinder_Detail_2/Bearings/Crossed_roller_bearings/CRBE/20591)
+* [Timing belt specs](https://www.electric-skateboard.builders/t/why-dont-people-use-gt3-pulleys-and-belts/71058)
